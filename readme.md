@@ -16,7 +16,15 @@ Ben Tristem & Michael Bridges
 * Look at the settings changes I will be using.
 * Enable your first couple of add-ons!
 
+# Planning Our Project
+* Get familiar with rabbits!
+* Look at the desired outcome and plan our modelling journey towards that goal.
 
+# Planning Our Project
+* Rabbit is sat in grass and is still.
+* It is a summers day with a light breeze.
+* There should be additional foliage around the rabbit.
+* The Rabbit does not have to be realistic.
 ----
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
