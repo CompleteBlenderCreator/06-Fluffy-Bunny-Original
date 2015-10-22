@@ -25,6 +25,10 @@ Ben Tristem & Michael Bridges
 * It is a summers day with a light breeze.
 * There should be additional foliage around the rabbit.
 * The Rabbit does not have to be realistic.
+
+# Knowing Your Subject
+* Re-enforce the importance of reference material.
+*See what happens when you just plough forward with out consulting your reference material, like I started to do!
 ----
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
