@@ -29,6 +29,12 @@ Ben Tristem & Michael Bridges
 # Knowing Your Subject
 * Re-enforce the importance of reference material.
 *See what happens when you just plough forward with out consulting your reference material, like I started to do!
+
+# Layers
+* Know how to turn layers on and off.
+* Turn on the layer management tool.
+* Understand layers are useful for working on separate parts of a scene or even model.
+* Realise if a layer is OFF the final render will not contain anything that was on that layer.
 ----
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
