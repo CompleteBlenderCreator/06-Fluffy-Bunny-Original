@@ -35,6 +35,12 @@ Ben Tristem & Michael Bridges
 * Turn on the layer management tool.
 * Understand layers are useful for working on separate parts of a scene or even model.
 * Realise if a layer is OFF the final render will not contain anything that was on that layer.
+
+# Meta Balls
+* Learn how to add a meta ball.
+* Use them to quickly build up a base framework.
+* See they’re great for modelling organic objects.
+* Understand they need converting afterwards to a mesh so we can add further detail.
 ----
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
