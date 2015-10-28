@@ -41,6 +41,37 @@ Ben Tristem & Michael Bridges
 * Use them to quickly build up a base framework.
 * See they’re great for modelling organic objects.
 * Understand they need converting afterwards to a mesh so we can add further detail.
+
+# Basic Sculpting
+* Learn the basics of sculpting.
+* Adjust your brush’s type, strength and size.
+* Understand how ‘Dyntopo’ works and when to use it.
+* How to find a brush if you have deleted it!
+
+# Basic Sculpting Solution Video
+* See my solution to the ‘Define Your Bunny’s Shape’ Challenge
+
+# Your First Particle System
+* Create a particle system.
+* Understand children and how they relate to their parents.
+* Hopefully avoid crashing your computer! (or waiting a VERY long time)
+
+# Fake Users
+* Learn how to give your hair/fur colour!
+* Understand about Fake Users and how to use them.
+* Realise what the 0 before anything in Blender means.
+
+# Particle Editing
+* Be introduced to the Particle Edit option.
+* Learn how to edit the particles
+* Style the hairs to make them flow in a more natural manner.
+* Learn how to reset the hairs back to default state.
+
+# Weight Painting
+* Use weight painting and vertex groups to control where the particle system actually appears, and where it does not.
+
+
+
 ----
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
