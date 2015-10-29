@@ -48,6 +48,10 @@ Ben Tristem & Michael Bridges
 * Understand how ‘Dyntopo’ works and when to use it.
 * How to find a brush if you have deleted it!
 
+# GPU Rendering In This Section.
+* Understand that Even With a dedicated GPU you may end up with out of memory issue if your card doesn’t have enough RAM.
+* Some AMD cards may not render hairs correctly.
+
 # Basic Sculpting Solution Video
 * See my solution to the ‘Define Your Bunny’s Shape’ Challenge
 
@@ -70,6 +74,8 @@ Ben Tristem & Michael Bridges
 # Weight Painting
 * Use weight painting and vertex groups to control where the particle system actually appears, and where it does not.
 
+# Adding Randomness with Children
+* Adjust the particle’s settings to get a more realistic and less uniform hair appearance.
 
 
 ----
