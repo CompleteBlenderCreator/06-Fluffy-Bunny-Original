@@ -77,6 +77,11 @@ Ben Tristem & Michael Bridges
 # Adding Randomness with Children
 * Adjust the particle’s settings to get a more realistic and less uniform hair appearance.
 
+# Multiple Cameras
+* Add another camera to the Scene
+* Change the primary camera
+* Learn how to quickly move the camera around.
+* Change the Camera Properties.
 
 ----
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
