@@ -83,6 +83,10 @@ Ben Tristem & Michael Bridges
 * Learn how to quickly move the camera around.
 * Change the Camera Properties.
 
+# Hiding Objects
+* Learn more about Hiding objects in Blender.
+* See how to Hide everything except the object you are working on.
+
 ----
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
