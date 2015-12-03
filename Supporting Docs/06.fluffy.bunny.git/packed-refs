@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled 
+1b48f9e0ace28907167ed1402efbb1d973496139 refs/heads/master
+d3d3df17a4d4eaf533dfc3095d268047ab58a410 refs/heads/pt-bunny
+d48c4d573691fb0b938dd517ade561a67e2a996c refs/heads/pt-eye
+ac07d5ece7431d8c7adc665d8520bbd4e3cc31ca refs/heads/pt-meshgrass

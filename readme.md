@@ -83,11 +83,78 @@ Ben Tristem & Michael Bridges
 * Learn how to quickly move the camera around.
 * Change the Camera Properties.
 
+# Exporting and Particle Systems
+* See how particle systems export from Blender.
+* Learn how to convert them.
+* Understand that this can break your modelling flow.
+* Realise you may be better off using the particle system in the other program you are exporting too.
+
 # Hiding Objects
 * Learn more about Hiding objects in Blender.
 * See how to Hide everything except the object you are working on.
 
-----
+# Introduction To The Image Editor
+* Make the Iris for our Bunny.
+* Learn how to Export an image with transparency.
+* Only Use Blender- so there will be some limitations.
+* Understand there are better programs for image creation and editing (Photoshop, Gimp etc.)
+
+# Combining Shaders In Cycles
+* Give the Eye a material that is a combination of different Shaders using the node editor.
+
+# UV Unwrapping and Texture Mapping
+* Understand an image texture replaces the colour of a material.
+* Learn how to Unwrap part of a mesh and apply the texture to it.
+
+# Adding a Sky Box
+* Add a skybox to our scene.
+* Use that skybox as the primary light source for the whole scene.
+
+# Using Textures Vs. Geometry
+* Understand you need both.- The texture has to exist on something!
+* See that Geometry is for detail and textures are for the illusion of detail.
+* Realise that the appropriate combination of both is used to create models
+
+* If You did get a TDR error use your CPU or try the fix here: http://artificialflight.org/blog/2013/cycles-crash-cuda-tdr-error/
+* Lots of Texture on top of one another works well.
+* Save time with scene setup, lose time rendering.
+
+# Importing Images As Planes
+* Setup the Add-on that enables you to import images as planes.
+* Be able to import an image into a scene.
+* Realise this can be another way of importing reference material.	
+
+# Packing External Data
+* Learn how to embed images into the blend file, both individually and collectively.
+* Understand this is essential when sharing a file with someone else.
+* Can create bloat if the external data becomes obsolete. -Show you how to remove external data	
+
+# Importing Images As Planes
+* Learn how to use cycle’s nodes to apply transparency to your image.
+* Use groups for nodes you wish to use again.
+
+# Textures Without Transparency
+* Learn how to use cycle’s nodes to apply transparency to your image.
+* Useful if you have no image editing software, no time to process, or just trying images.
+* Need a Solid coloured background, either 100% Black or 100% White.
+
+# Light Path Render Settings
+* Learn about light paths and how there are critical when using transparency.
+
+# Making Textures Look More 3D
+* Play with the texture planes to alter their appearance.
+* Understand, the more complexity you add here the less you may need later on.
+
+# Using Objects With Particle Systems
+* Learn how you can place hundreds of objects easily and fluidly using the particle system.
+* Control the distribution of particles using Weight Painting and Vertex Groups.
+* Turn off outlines when they clutter the view.
+
+# Planting The Grass
+* Using a series of particle systems we will plant our   various grass types.
+* Use low values during prototyping to get a feel of how the grass will look.
+
+——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
 ---
