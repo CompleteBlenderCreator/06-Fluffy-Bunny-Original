@@ -143,7 +143,16 @@ Ben Tristem & Michael Bridges
 * Use groups for nodes for simplicity
 * Use those node groups again on other materials.
 
+# Textures Without Transparency
+* Import an image without a transparent layer.- No Alpha Channel.
+* Understand that this is useful if you have no image editing software, no time to process a load of images, or just trying out images for your textures
 
+# What is Alpha?
+* If an image contains an alpha channel, each image pixel is represented has an value which specifies the opacity of that pixel. In alpha channels, 100% is opaque pixel and 0% is transparent pixel.​
+
+# Not the best way…
+* Ideal to have a Solid coloured background, either 100% Black or 100% White to separate the image from the background.
+* It would be best if your images are processed to include an alpha (transparency) channel RGBA.
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
