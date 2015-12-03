@@ -153,6 +153,11 @@ Ben Tristem & Michael Bridges
 # Not the best way…
 * Ideal to have a Solid coloured background, either 100% Black or 100% White to separate the image from the background.
 * It would be best if your images are processed to include an alpha (transparency) channel RGBA.
+
+# Testing The Grass
+* Name your new texture layer.
+* Turn back on the camera and lighting and the grass layer.
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
