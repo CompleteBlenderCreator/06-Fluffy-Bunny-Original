@@ -133,6 +133,11 @@ Ben Tristem & Michael Bridges
 * Learn how to use cycle’s nodes to apply transparency to your image.
 * Use groups for nodes you wish to use again.
 
+# Node Type Overview
+* Look at the Nodes that are created for the textures.
+* Learn about the different types of connection points and what the coloured dots are.
+* Which ones can be connected together and what they would do.
+
 # Textures Without Transparency
 * Learn how to use cycle’s nodes to apply transparency to your image.
 * Useful if you have no image editing software, no time to process, or just trying images.
