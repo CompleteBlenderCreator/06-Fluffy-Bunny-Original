@@ -158,6 +158,23 @@ Ben Tristem & Michael Bridges
 * Name your new texture layer.
 * Turn back on the camera and lighting and the grass layer.
 
+# Light Path Render Settings
+* Learn about light paths and how there are critical when using transparency.
+
+# Making Textures Look More 3D
+* Play with the texture planes to alter their appearance.
+* Understand, the more complexity you add here the less you may need later on.
+
+# Using Objects With Particle Systems
+* Learn how you can place hundreds of objects easily and fluidly using the particle system.
+* Control the distribution of particles using Weight Painting and Vertex Groups.
+* Turn off outlines when they clutter the view.
+
+# Planting The Grass
+* Using a series of particle systems we will plant our   various grass types.
+* Use low values during prototyping to get a feel of how the grass will look.
+
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
