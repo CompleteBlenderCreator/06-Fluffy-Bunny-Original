@@ -170,9 +170,16 @@ Ben Tristem & Michael Bridges
 * Control the distribution of particles using Weight Painting and Vertex Groups.
 * Turn off outlines when they clutter the view.
 
-# Planting The Grass
-* Using a series of particle systems we will plant our   various grass types.
+# Layering Particles Systems in Blender
+* See the Solution to the last lecture. 
+* Use a series of particle systems to plant our various grass types.
 * Use low values during prototyping to get a feel of how the grass will look.
+
+# Introduction to Sapling
+* Turn on the sapling add-on.
+* Learn the fundamentals of sapling.
+* Understand to save before using sapling
+* Learn how to prevent blender ‘crashing’ when using sapling.
 
 
 ——
