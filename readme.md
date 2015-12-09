@@ -181,6 +181,12 @@ Ben Tristem & Michael Bridges
 * Understand to save before using sapling
 * Learn how to prevent blender ‘crashing’ when using sapling.
 
+# Using Sapling To Make A Basic Tree
+* Look at the tree presets.
+* See how to add leaves to your tree in sapling.
+* Learn where leaves are placed on the tree.
+* How to get it looking more like a tree at the base.
+
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
