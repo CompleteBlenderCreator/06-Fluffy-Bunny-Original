@@ -60,7 +60,7 @@ Ben Tristem & Michael Bridges
 * Understand children and how they relate to their parents.
 * Hopefully avoid crashing your computer! (or waiting a VERY long time)
 
-# Fake Users
+# Fake Users (Edited and Updated5th September 2016)
 * Learn how to give your hair/fur colour!
 * Understand about Fake Users and how to use them.
 * Realise what the 0 before anything in Blender means.
