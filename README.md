@@ -50,7 +50,7 @@ Mikey and Ben Introduce the Fluffy Bunny Section.
 
 ### GPU Rendering In This Section ###
 
-+ Understand that Even With a dedicated GPU you may end up with out of memory issue if your card doesn’t have enough RAM.
++ Understand that even with a dedicated GPU you may end up with out of memory issue if your card doesn’t have enough RAM.
 + Some AMD cards may not render hairs correctly.
 
 ### Your First Particle System ###
