@@ -207,6 +207,3 @@ Mikey and Ben Introduce the Fluffy Bunny Section.
 ### End of Section 6 Wrap Up ###
 
 Mikey talks through the end of section wrap up.
-
----
-Find out more about our [Complete Blender Creator Course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount).
