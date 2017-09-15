@@ -72,7 +72,7 @@ Mikey and Ben Introduce the Fluffy Bunny Section.
 + Style the hairs to make them flow in a more natural manner.
 + Learn how to reset the hairs back to default state.
 
-### Weight Painting ###
+### 14 Weight Painting
 
 + Use weight painting and vertex groups to control where the particle system actually appears, and where it does not.
 
@@ -186,7 +186,7 @@ Mikey and Ben Introduce the Fluffy Bunny Section.
 
 ### Layering Particles Systems in Blender ###
 
-+ See the Solution to the last lecture. 
++ See the Solution to the last lecture.
 + Use a series of particle systems to plant our various grass types.
 + Use low values during prototyping to get a feel of how the grass will look.
 
