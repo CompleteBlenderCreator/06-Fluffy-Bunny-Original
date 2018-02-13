@@ -57,6 +57,11 @@ Mikey and Ben Introduce the Fluffy Bunny Section.
 + Refresher on applying transforms
 + Show you why you need to do it.
 
+###10c Alternative Ear Construction
++ This may help with your particle system and hair placement
++ Always more than one way, to do something in Blender
++ Thanks to Alberto for experimenting and contributing to the community
+
 ### 11 Your First Particle System
 
 + Create a particle system.
