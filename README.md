@@ -213,6 +213,12 @@ Mikey and Ben Introduce the Fluffy Bunny Section.
 + Learn where leaves are placed on the tree.
 + How to get it looking more like a tree at the base.
 
+### 36 Depth Of Field Using Cycles
++ Let's make this scene even better
++ Add in a Camera effect called depth of field
++ Pretty easy using cycles
++ Learn better control of tracking
+
 ### 99 End of Section 6 Wrap Up
 
 Mikey talks through the end of section wrap up.
