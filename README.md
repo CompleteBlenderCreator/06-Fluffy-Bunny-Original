@@ -2,6 +2,11 @@
 
 Mikey and Ben Introduce the Fluffy Bunny Section.
 
+### 1a What's Coming Up In Section 6
++ Michael Explains what we are covering
++ Showcase of student work
+
+
 ### 2 Section 6 Assets
 
 
